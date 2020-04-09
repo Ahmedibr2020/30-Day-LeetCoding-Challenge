@@ -1,4 +1,5 @@
 # 30-Day-LeetCoding-Challenge
+Solved in Python
 
 Introduction
 Welcome to the 30-Day LeetCoding Challenge!
